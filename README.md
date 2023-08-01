@@ -1,6 +1,10 @@
-# Cardápio Digital - Aplicação Frontend
+<h1 align="center"> 
+Cardápio Digital - Aplicação Frontend
+</h1>
 
-Desenvolvimento de um projeto simples de protótipo de um Cardápio Digital usando **React, Typescript e React Query**.
+<p align="center">
+Desenvolvimento de um projeto simples de protótipo de um Cardápio Digital usando React, Typescript e React Query.<br/>
+</p>
 
 <h1 align="center">
     <img src=".github/home.png" width="300"/>
@@ -40,6 +44,20 @@ npm run build
 Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
 
 </br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Javascript
+- Typescript
+- ReactJS
+- tanstak-query ( `npm i @tanstack/react-query` )
+- Axios (`npm install axios`)
+- Figma
+
+<br>
 
 ## 📝 Licença
 
